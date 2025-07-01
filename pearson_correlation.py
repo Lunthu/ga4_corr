@@ -19,7 +19,7 @@ data_table.enable_dataframe_formatter()
 
 # Running this code will read results from your previous job
 
-job = client.get_job('bquxjob_70683134_197c597d072') # Job ID inserted based on the query results selected to explore
+job = client.get_job('YOUR_JOB_ID') # Job ID inserted based on the query results selected to explore
 destination = job.destination
 
 # Load data from a BigQuery table using BigFrames DataFrames:
