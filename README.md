@@ -1,6 +1,6 @@
 📊 GA4 Correlation Analysis
 
-GA4 Correlation Analysis Tool is a Python-based utility designed to help analysts and marketers uncover meaningful relationships between metrics and dimensions in Google Analytics 4 (GA4) data. 
+These two basic scripts are aimed to show how to work with correlation analysis in Google Analytics 4 + BigQuery stack, and designed to help analysts and marketers uncover meaningful relationships between metrics and dimensions in Google Analytics 4 (GA4) data. 
 
 🔍 Features
 
@@ -17,5 +17,7 @@ BigQuery, Python 3, Pandas, NumPy, SciPy, Matplotlib
 🚀 Use Cases
 
 Identify which user behaviors correlate with conversions
+
 Optimize marketing strategies based on data-driven insights
+
 Explore relationships between traffic sources, engagement, and outcomes
